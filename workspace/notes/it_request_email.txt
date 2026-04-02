@@ -1,0 +1,29 @@
+Subject: Request for Approval: Membrane App Access to University Microsoft 365 Account
+
+Dear IT Helpdesk,
+
+I am writing to request approval for a third-party application called "Membrane" to access my University Microsoft 365 account (email and calendar).
+
+**Application Details:**
+- App Name: Membrane
+- Purpose: Personal productivity automation and email/calendar management
+- Website: https://getmembrane.com
+- Required Permissions: Read access to email and calendar (to sync schedules and manage communications)
+
+**Why I Need This:**
+I am using Membrane as a CLI tool to help manage my academic schedule and communications more efficiently. It requires OAuth permissions to access my Outlook email and calendar data for automation purposes.
+
+**Security Note:**
+This is for personal use only. I understand the security implications and will ensure proper credential management. The app uses standard OAuth 2.0 authentication flow and does not store passwords locally.
+
+Could you please approve this application for my account, or let me know what additional information you need?
+
+My university email: [你的学校邮箱，如 sxxxxxx@ed.ac.uk]
+Student ID: [你的学号]
+
+Thank you for your assistance.
+
+Best regards,
+Merritt Wang
+[你的学号]
+[你的学院/专业]

@@ -1,0 +1,30 @@
+{
+  "lastOnline": "2026-03-19T18:30:00Z",
+  "taskStatus": {
+    "diary": {
+      "lastDate": "2026-03-19",
+      "lastTime": "23:59",
+      "status": "completed"
+    },
+    "secret": {
+      "lastDate": "2026-03-19",
+      "lastTime": "18:10",
+      "status": "completed"
+    },
+    "weather": {
+      "lastDate": "2026-03-19",
+      "lastTime": "08:00",
+      "status": "completed"
+    },
+    "email": {
+      "lastDate": "2026-03-19",
+      "lastTime": "08:00",
+      "status": "completed"
+    },
+    "water": {
+      "lastDate": "2026-03-19",
+      "lastTime": "08:00",
+      "status": "completed"
+    }
+  }
+}

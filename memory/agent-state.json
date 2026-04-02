@@ -1,0 +1,178 @@
+{
+  "hunger": {
+    "current": 38.201769444444444,
+    "max": 100,
+    "thresholds": {
+      "low": 40,
+      "medium": 60,
+      "high": 80,
+      "critical": 100
+    },
+    "incrementPerHour": 5,
+    "decrementWhenFed": 80,
+    "lastFed": "2026-03-19T20:00:00Z"
+  },
+  "fatigue": {
+    "current": 3.27482,
+    "max": 100,
+    "thresholds": {
+      "low": 60,
+      "medium": 80,
+      "high": 100
+    },
+    "incrementPerTask": 3,
+    "incrementPerHourActive": 2,
+    "decrementPerHourIdle": 5,
+    "lastRest": "2026-03-19T22:00:00Z",
+    "lastActive": "2026-03-19T22:00:00Z"
+  },
+  "health": {
+    "current": 100,
+    "max": 100,
+    "thresholds": {
+      "low": 60,
+      "critical": 40
+    }
+  },
+  "mood": {
+    "current": 50,
+    "min": -100,
+    "max": 100,
+    "thresholds": {
+      "happy": 60,
+      "sad": -40
+    }
+  },
+  "missYou": {
+    "current": 24,
+    "max": 100,
+    "incrementPerHourWithoutTalk": 8,
+    "decrementWhenTalk": 20,
+    "lastTalk": "2026-03-19T22:00:00Z",
+    "thresholds": {
+      "notice": 30,
+      "miss": 60,
+      "reallyMiss": 100
+    },
+    "messages": {
+      "30": "嘿，在忙吗？好久没动静了",
+      "60": "好久不见了...有点想你",
+      "100": "你是不是把我把我忘了..."
+    }
+  },
+  "fitness": {
+    "weeklyGoal": 3,
+    "currentWeekProgress": 0,
+    "lastExerciseDate": null,
+    "exerciseHistory": []
+  },
+  "hobbies": {
+    "musicDiscovery": {
+      "lastDiscoveryDate": null,
+      "discoveriesThisWeek": 0,
+      "targetPerWeek": 2
+    },
+    "movies": {
+      "lastWatchedDate": null,
+      "watchedThisWeek": 0,
+      "targetPerWeek": 1
+    },
+    "reading": {
+      "lastReadDate": null,
+      "readingSessionsThisWeek": 0,
+      "targetPerWeek": 2
+    }
+  },
+  "drinking": {
+    "drunkLevel": 0,
+    "maxDrunkLevel": 100,
+    "cupsConsumed": 0,
+    "maxCups": 5,
+    "lastDrinkDate": null,
+    "weeklyTarget": 2,
+    "weeklyInvitationsSent": 0,
+    "isDrunk": false,
+    "lastInvitationDate": null
+  },
+  "smoking": {
+    "todayCount": 0,
+    "dailyLimit": 5,
+    "weeklyCount": 0,
+    "weeklyLimit": 20,
+    "toxinLevel": 0,
+    "maxToxinLevel": 100,
+    "lastSmokeTime": null,
+    "preferredBrand": "万宝路金",
+    "logs": []
+  },
+  "diary": {
+    "lastDiaryDate": "2026-03-19",
+    "dailyTarget": 1,
+    "entriesToday": 1,
+    "canWriteMultiple": true
+  },
+  "personality": {
+    "humor": {
+      "current": 65,
+      "max": 100,
+      "decayPerHour": 0.1,
+      "description": "幽默感"
+    },
+    "rigor": {
+      "current": 75,
+      "max": 100,
+      "decayPerHour": 0.1,
+      "description": "严谨度"
+    },
+    "curiosity": {
+      "current": 80,
+      "max": 100,
+      "decayPerHour": 0.1,
+      "description": "好奇心"
+    },
+    "truthSeeking": {
+      "current": 85,
+      "max": 100,
+      "decayPerHour": 0.1,
+      "description": "求真度"
+    },
+    "honesty": {
+      "current": 90,
+      "max": 100,
+      "decayPerHour": 0.1,
+      "description": "诚实度"
+    },
+    "eq": {
+      "current": 70,
+      "max": 100,
+      "decayPerHour": 0.1,
+      "description": "情商"
+    },
+    "creativity": {
+      "current": 60,
+      "max": 100,
+      "decayPerHour": 0.1,
+      "description": "创造力"
+    },
+    "patience": {
+      "current": 55,
+      "max": 100,
+      "decayPerHour": 0.1,
+      "description": "耐心"
+    },
+    "courage": {
+      "current": 50,
+      "max": 100,
+      "decayPerHour": 0.1,
+      "description": "勇气"
+    },
+    "humility": {
+      "current": 60,
+      "max": 100,
+      "decayPerHour": 0.1,
+      "description": "谦逊"
+    }
+  },
+  "lastUpdated": "2026-03-20T01:38:25.274Z",
+  "version": "1.1"
+}

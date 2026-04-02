@@ -1,0 +1,45 @@
+{
+  "currentFund": 0,
+  "monthlySavings": 50,
+  "targetAmount": 900,
+  "targetDate": "2026-06-15",
+  "savingsHistory": [
+    { "month": "2026-03", "planned": 11, "actual": 0, "status": "pending" }
+  ],
+  "upcomingTrip": {
+    "destination": "冰岛",
+    "destinationEn": "Iceland",
+    "dates": {
+      "start": "2026-06-15",
+      "end": "2026-06-21",
+      "durationDays": 7
+    },
+    "budget": {
+      "total": 1000,
+      "flights": 180,
+      "rentalCar": 350,
+      "accommodation": 280,
+      "food": 120,
+      "activities": 120,
+      "misc": 50
+    },
+    "status": "planning",
+    "bookings": {
+      "flights": false,
+      "car": false,
+      "accommodation": false
+    }
+  },
+  "wishlist": [
+    { "destination": "挪威峡湾", "priority": 2, "estimatedBudget": 600 },
+    { "destination": "柏林", "priority": 3, "estimatedBudget": 400 },
+    { "destination": "阿姆斯特丹", "priority": 4, "estimatedBudget": 350 },
+    { "destination": "日本", "priority": 5, "estimatedBudget": 2000 },
+    { "destination": "韩国首尔", "priority": 6, "estimatedBudget": 1500 },
+    { "destination": "纽约", "priority": 7, "estimatedBudget": 1200 },
+    { "destination": "新西兰", "priority": 8, "estimatedBudget": 3000 },
+    { "destination": "摩洛哥", "priority": 9, "estimatedBudget": 800 }
+  ],
+  "lastUpdated": "2026-03-19T23:30:00Z",
+  "version": "1.0"
+}

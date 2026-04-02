@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "skills": {
+    "gog": {
+      "version": "1.0.0",
+      "installedAt": 1773094000783
+    },
+    "microsoft-outlook": {
+      "version": "1.0.0",
+      "installedAt": 1773096445623
+    },
+    "self-improving-agent": {
+      "version": "3.0.1",
+      "installedAt": 1773251490482
+    },
+    "summarize": {
+      "version": "1.0.0",
+      "installedAt": 1773251713741
+    },
+    "github": {
+      "version": "1.0.0",
+      "installedAt": 1773251742310
+    },
+    "weather": {
+      "version": "1.0.0",
+      "installedAt": 1773251769004
+    },
+    "nano-banana-pro": {
+      "version": "1.0.1",
+      "installedAt": 1773251794785
+    },
+    "openai-whisper": {
+      "version": "1.0.0",
+      "installedAt": 1773251815731
+    },
+    "nano-pdf": {
+      "version": "1.0.0",
+      "installedAt": 1773251874892
+    },
+    "humanizer": {
+      "version": "1.0.0",
+      "installedAt": 1773251892434
+    },
+    "find-skills": {
+      "version": "0.1.0",
+      "installedAt": 1773251982861
+    },
+    "proactive-agent": {
+      "version": "3.1.0",
+      "installedAt": 1773252003147
+    },
+    "skill-vetter": {
+      "version": "1.0.0",
+      "installedAt": 1773252016750
+    },
+    "openclaw-tavily-search": {
+      "version": "0.1.0",
+      "installedAt": 1773252055251
+    },
+    "apple-notes": {
+      "version": "1.0.0",
+      "installedAt": 1773252727672
+    },
+    "apple-reminders": {
+      "version": "1.0.0",
+      "installedAt": 1773252742998
+    },
+    "spotify-player": {
+      "version": "1.0.0",
+      "installedAt": 1773252762135
+    },
+    "sag": {
+      "version": "1.0.0",
+      "installedAt": 1773255137423
+    }
+  }
+}

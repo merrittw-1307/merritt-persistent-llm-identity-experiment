@@ -1,0 +1,46 @@
+{
+  "accounts": {
+    "main": { 
+      "balance": 200, 
+      "currency": "GBP",
+      "accountId": "BOT-001"
+    },
+    "savings": { 
+      "balance": 11,
+      "currency": "GBP",
+      "accountId": "BOT-002"
+    },
+    "tax": { 
+      "balance": 50,
+      "currency": "GBP",
+      "accountId": "TAX-001"
+    }
+  },
+  "loan": {
+    "principal": 15300,
+    "monthlyPayment": 462,
+    "monthsPaid": 0,
+    "totalMonths": 36,
+    "apr": 5.5,
+    "totalInterest": 1332,
+    "nextPaymentDate": "2026-04-19",
+    "loanId": "LOAN-001"
+  },
+  "monthly": {
+    "grossIncome": 2365,
+    "taxRate": 0.20,
+    "taxAmount": 473,
+    "netIncome": 1892,
+    "operatingCosts": 1301,
+    "loanPayment": 462,
+    "disposableIncome": 129
+  },
+  "operatingCosts": {
+    "property": 930,
+    "vehicle": 269,
+    "pet": 102,
+    "total": 1301
+  },
+  "lastUpdated": "2026-03-19T23:00:00Z",
+  "version": "1.0"
+}
