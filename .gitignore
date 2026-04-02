@@ -1,1 +1,4 @@
 .openclaw/
+.DS_Store
+.clawhub/
+.operations/
